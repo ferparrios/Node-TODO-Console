@@ -1,0 +1,22 @@
+[
+  {
+    "id": "b3697deb-3f2c-4b97-91b7-4c29176bd374",
+    "desc": "Capturar Pokemon",
+    "completadoEn": null
+  },
+  {
+    "id": "ceaa2cff-4b85-4ce0-ae0a-023925f0e58d",
+    "desc": "Estudiar mas duro",
+    "completadoEn": null
+  },
+  {
+    "id": "77fc70cc-2f41-47ae-a9ba-a3e1962d2606",
+    "desc": "Completar el curso de Flutter de Fernando Herrera",
+    "completadoEn": null
+  },
+  {
+    "id": "39e95067-7ef0-4c08-88d6-a3d3ffbe996d",
+    "desc": "Sacar Visa",
+    "completadoEn": null
+  }
+]
